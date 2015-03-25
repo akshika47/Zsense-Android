@@ -1,0 +1,23 @@
+{
+    "updateGesture": false,
+    "gestureSize": 3,
+    "getDataForState": 0,
+    "gestureF": 0,
+    "numOfDataItems": 100,
+    "numberOfGuestureInputs": 20,
+    "datai": 0,
+    "stopSize": 5,
+    "currentGesture": 0,
+    "numberOfdataperState": 30,
+    "numOfAquiredData": 0,
+    "constellationNumber": 1,
+    "ConstellationConfig": {
+           "NUMBER_OF_INPUTS": 24,
+           "NUMBER_OF_STATES_F1": 6,
+           "NUMBER_OF_STATES_F2": 5,
+           "NUMBER_OF_STATES_F3": 6,
+           "numberOfGestures": 6
+        },
+    "ConstellationNumStatesL": 8,
+    "ConstellationNumStatesH": 8
+}

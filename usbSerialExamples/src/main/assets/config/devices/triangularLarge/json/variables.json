@@ -1,0 +1,18 @@
+{
+    "filenameFinal": "",
+    "filenameIntermid": "intermid.csv",
+    "csvPathH": "horizontal.csv",
+    "modelPathH": "Horizontal.model",
+    "csvPathG": "gesture.csv",
+    "modelPathG": "Gesture.model",
+    "csvPathL": "level.csv",
+    "modelPathL": "Level.model",
+    "NUMBER_OF_STATES_F1": 0,
+    "NUMBER_OF_STATES_F2": 0,
+    "NUMBER_OF_STATES_F3": 0,
+    "NUMBER_OF_INPUTS": 0,
+    "numberOfGestures": 0,
+    "numStates": 0,
+    "acquiredData": 0,
+
+}

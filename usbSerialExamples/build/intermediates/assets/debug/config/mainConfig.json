@@ -1,0 +1,64 @@
+{
+    "levelTraining": false,
+    "horizontalTraining": false,
+    "gestureTraining": false,
+    "updateGesture": false,
+    "gestureSize": 3,
+    "getDataForState": 0,
+    "gestureF": 0,
+    "numOfDataItems": 100,
+    "numberOfGuestureInputs": 20,
+    "datai": 0,
+    "stopSize": 5,
+    "currentGesture": 0,
+    "numberOfdataperState": 30,
+    "numOfAquiredData": 0,
+    "devices": {
+                "ring":
+                {         "name": "Ring",
+                          "path": "devices/ring/json/configuration.json"
+						  
+                },
+
+                "3-3Linear":
+                 {
+                          "name": "3-3 Linear",
+                          "path": "devices/3-3Linear/json/configuration.json"
+                 },
+
+                "angle0Deg":
+                {
+                          "name": "angle 0 Degrees",
+                          "path": "devices/angle0Deg/json/configuration.json"
+                },
+
+                "angle20Deg":
+                 {
+                          "name": "Angle 20 Deg",
+                          "path": "devices/angle20Deg/json/configuration.json"
+                 },
+
+                "angle30Deg":
+                {
+                          "name": "Angle 30 Degrees",
+                          "path": "devices/angle30Deg/json/configuration.json"
+                },
+
+                "linear2Close":
+                {
+                          "name": "Linear too Close",
+                          "path": "devices/linear2Close/json/configuration.json"
+                },
+
+                "linear2Far":
+                {
+                          "name": "Linear too Far",
+                          "path": "devices/linear2far/json/configuration.json"
+                }
+
+    },
+    "TIME_OUT": 2000,
+    "DATA_RATE": 57600,
+    "socket": 8080,
+    "port": "localhost"
+}

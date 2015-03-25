@@ -1,0 +1,7 @@
+C:\Users\akshika47\Desktop\MyApplication\MyApplication\usbSerialExamples\build\intermediates\classes\debug
+C:\Users\akshika47\Desktop\MyApplication\MyApplication\usbSerialExamples\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-f66bb7f791bee94ca4df9f5379079db5e4350252.jar
+C:\Users\akshika47\Desktop\MyApplication\MyApplication\usbSerialExamples\build\intermediates\pre-dexed\debug\classes-9d65fb385c0bd87f327a138c7b3bb3025f709dbf.jar
+C:\Users\akshika47\Desktop\MyApplication\MyApplication\usbSerialExamples\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-31727bec91874709a8127b98a03dd8bd83eb05de.jar
+C:\Users\akshika47\Desktop\MyApplication\MyApplication\usbSerialExamples\build\intermediates\pre-dexed\debug\classes-c470b5e64f4b40376a43cbebf03c41c0c65ea92f.jar
+C:\Users\akshika47\Desktop\MyApplication\MyApplication\usbSerialExamples\build\intermediates\pre-dexed\debug\classes-d9ede001b6df472306f4bbdc855b33b5f38ede19.jar
+C:\Users\akshika47\Desktop\MyApplication\MyApplication\usbSerialExamples\build\intermediates\pre-dexed\debug\weka-d81bf71d69e3edcfc4fde0472f268786c60bb7ca.jar
